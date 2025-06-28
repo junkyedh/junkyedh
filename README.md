@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/junkyedh](github.com/junkyedh)
 
-- 💬 Ask me about **ReactJS,TypeScript, SCSS**
+- 💬 Ask me about **ReactJS, TypeScript, SCSS**
 
 - 📫 How to reach me **dhduonghan@gmail.com**
 
